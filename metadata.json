@@ -1,0 +1,6 @@
+{
+  "name": "Planilla de Recorrido",
+  "description": "Formulario online para completar y descargar la Planilla de Recorrido (Frente y Dorso) de la Escuela Domiciliaria Nº 1 de Buenos Aires con el formato oficial exacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
